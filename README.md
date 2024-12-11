@@ -1,3 +1,3 @@
-## Hi there i'm Zahid Terriquez :wave:
+## Hi there i'm Zahid Terriquez :point_down:
 
 in progress...
