@@ -1,6 +1,5 @@
 ## Hi i'm Zahid Terriquez :wave:
 
-in progress...
 # 💫 About Me:
 Computer Science student
 
