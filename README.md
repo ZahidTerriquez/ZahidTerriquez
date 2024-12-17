@@ -1,7 +1,7 @@
 ## Hi i'm Zahid Terriquez :wave:
 
 # 💫 About Me:
-Computer Science student
+I am a computer science student aspiring to become a software engineer.
 
 
 # 💻 Tech Stack:
