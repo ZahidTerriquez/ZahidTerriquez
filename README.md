@@ -1,7 +1,7 @@
 ## Hi i'm Zahid Terriquez :wave:
 
 # 💫 About Me:
-I am a computer science student aspiring to become a software engineer, with a strong interest in fields like machine learning and AI.
+I am a computer science student aspiring to become a Software Engineer, with a strong interest in fields like machine learning and AI.
 
 # 💻 Tech Stack:
 Languages:
