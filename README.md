@@ -1,4 +1,4 @@
-👋 Hey there, i'm Zahid!
+#👋 Hey there, i'm Zahid!
 
 # 💫 About Me:
 I am a computer science student aspiring to become a Software Engineer, with a strong interest in fields like machine learning and AI.
@@ -14,4 +14,4 @@ Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Developer Tools:
-![Git](
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
