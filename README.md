@@ -1,4 +1,4 @@
-## Hi i'm Zahid Terriquez :wave:
+## 👋 Hey there, i'm Zahid!
 
 # 💫 About Me:
 I am a computer science student aspiring to become a Software Engineer, with a strong interest in fields like machine learning and AI.
