@@ -7,7 +7,7 @@ I’m a computer science student passionate about software engineering, machine 
 
 ### 💻 Tech Stack
 
-**Languages:**  
+**Languages:**
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -19,20 +19,28 @@ I’m a computer science student passionate about software engineering, machine 
 [![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](#)
 
-**Frameworks & Libraries:**  
+**Frameworks & Libraries:**     
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#)
-[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)](#)
 
-**Tools & Platforms:**  
+**Machine Learning & AI:**
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
+[![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-eee?logo=openai&logoColor=412991)](#)
+
+**Tools & Platforms:**
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ---
