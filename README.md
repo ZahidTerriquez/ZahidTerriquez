@@ -19,7 +19,7 @@ I’m a computer science student passionate about software engineering, machine 
 [![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](#)
 
-**Frameworks & Libraries:**     
+**Frameworks & Libraries:**
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#)
